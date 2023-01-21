@@ -153,4 +153,11 @@ footer {
      .logo {
         width: 150px;
      }
+     .heading {
+        font-size: 40px;
+     }
+     .para {
+        font-size: 15px;
+        line-height: 18px;
+     }
 }
